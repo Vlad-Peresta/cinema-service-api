@@ -25,23 +25,25 @@ python3 -m venv venv
 pip3 install -r requirements.txt
 ```
 
-#### Set Up Database for Windows
+#### Set Up environment variables and Database for Windows
 ```angular2html
 set POSTGRES_HOST=<your db hostname>
 set POSTGRES_DB=<your db name>
 set POSTGRES_USER=<your db username>
-set POSTGRES_USER=<your db user password>
+set POSTGRES_PASSWORD=<your db user password>
+set SECRET_KEY=<your secret key>
   
 python3 manage.py makemigrations
 python3 manage.py migrate
 ```
 
-#### Set Up Database for Unix, macOS
+#### Set Up environment variables and Database for Unix, macOS
 ```angular2html
 export POSTGRES_HOST=<your db hostname>
 export POSTGRES_DB=<your db name>
 export POSTGRES_USER=<your db username>
-export POSTGRES_USER=<your db user password>
+export POSTGRES_PASSWORD=<your db user password>
+export SECRET_KEY=<your secret key>
   
 python3 manage.py makemigrations
 python3 manage.py migrate
