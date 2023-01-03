@@ -77,6 +77,6 @@ docker-compose up
 * get access token /api/user/token/
 
 ## Project screenshots
-![Знімок екрана з 2023-01-03 13-30-21.png](..%2F..%2F..%2FPictures%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BA%D0%B8%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%B7%202023-01-03%2013-30-21.png)
-![Знімок екрана з 2023-01-03 13-30-54.png](..%2F..%2F..%2FPictures%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BA%D0%B8%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%B7%202023-01-03%2013-30-54.png)
-![Знімок екрана з 2023-01-03 13-31-49.png](..%2F..%2F..%2FPictures%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BA%D0%B8%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%2F%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%B7%202023-01-03%2013-31-49.png)
+![Знімок екрана з 2023-01-03 13-30-21](https://user-images.githubusercontent.com/106173314/210350072-2f7eba27-470a-46d5-ac99-747eb23bb853.png)
+![Знімок екрана з 2023-01-03 13-30-54](https://user-images.githubusercontent.com/106173314/210350095-acfdefa9-a9ad-4c54-b19b-6c2eaa2fa8c9.png)
+![Знімок екрана з 2023-01-03 13-31-49](https://user-images.githubusercontent.com/106173314/210350121-73ab20d1-85cf-4f14-ade8-bc10c8a98aca.png)
